@@ -7,6 +7,8 @@
     <groupId>ru.otus</groupId>
     <artifactId>lesson-1</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
+    <build>
+        <finalName>lesson1</finalName>
+    </build>
+test git
 </project>
